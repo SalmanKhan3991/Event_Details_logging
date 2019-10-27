@@ -1,5 +1,6 @@
 *.xml
 .gradle\*
+.gradle\*.properties
 *.bin
 *.lock
 *.class
