@@ -20,7 +20,7 @@ Example:
 java -cp EventTask.jar Application C:\\Users\\salman\\Documents\\logfile.txt
 ``
 
-####NOTE:
+### NOTE:
 Before running the jar, you need to setup the hsql db on the system where you wish to run the jar file.
 
 Instructions are available [here](https://www.tutorialspoint.com/hsqldb/hsqldb_installation.htm)
