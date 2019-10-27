@@ -17,7 +17,7 @@ java -cp EventTask.jar Application <path_to_log_file>
 
 Example:
 ``
-java -cp EventTask.jar Application C:\\Users\\salma\\Documents\\logfile.txt
+java -cp EventTask.jar Application C:\\Users\\salman\\Documents\\logfile.txt
 ``
 
 ####NOTE:
