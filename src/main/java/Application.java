@@ -17,7 +17,8 @@ public class Application {
 
     public static void main(String[] args) {
 
-        File file = new File("C:\\Users\\salma\\Documents\\logfile.txt");
+        String pathname = args[0];
+        File file = new File(pathname);
         HashMap<String, ArrayList<Event>> jsonMap = getJsonMap(file, "UTF-8");
         processEventMap(jsonMap);
     }

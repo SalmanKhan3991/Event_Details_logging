@@ -1,0 +1,6 @@
+*.xml
+.gradle\*
+*.bin
+*.lock
+*.class
+.idea\*
